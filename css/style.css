@@ -38,12 +38,12 @@ section#score div {
 }
 
 .furry {
-  background-image: url('../images/ic_adb_black_48px.svg');
+  background-image: url('/images/ic_adb_black_48px.svg');
   background-repeat: no-repeat;
   background-size: cover;
 }
 .coin {
-  background-image: url('../images/ic_monetization_on_black_48px.svg');
+  background-image: url('/images/ic_monetization_on_black_48px.svg');
   background-repeat: no-repeat;
   background-size: cover;
 }
