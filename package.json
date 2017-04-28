@@ -1,0 +1,25 @@
+{
+  "name": "catch-coins",
+  "version": "1.0.0",
+  "description": "Simple game, catch coins and reach highest score",
+  "main": "out.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wooojek/Catch-Coins.git"
+  },
+  "author": "Michal Zmujdzin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wooojek/Catch-Coins/issues"
+  },
+  "homepage": "https://github.com/wooojek/Catch-Coins#readme",
+  "devDependencies": {
+    "webpack": "^2.3.2"
+  },
+  "dependencies": {
+    "webpack": "^2.3.2"
+  }
+}
